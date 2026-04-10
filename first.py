@@ -1,2 +1,5 @@
 print("First commit edit by main")
 print("Lets create a merge conflict")
+print("keep all the changes in the merge conflict resolution")
+print("First commit edit by branch-1")
+print("Keeping both in rebase conflict")
